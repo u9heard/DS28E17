@@ -1,4 +1,4 @@
-<h1>DS28E17</h3>
+<h1>DS28E17-SHT3x</h3>
 This library allows you to connect SHT3x sensors via DS28E17 bridges. This allows you to increase the length of the line by using the 1-Wire protocol.
 
 <h2>Connection diagram</h2>
