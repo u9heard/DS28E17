@@ -4,5 +4,10 @@ This library allows you to connect SHT3x sensors via DS28E17 bridges. This allow
 <h2>Connection diagram</h2>
 <img width= "300px" src="/img/Connection.png">
 
+<h2>Datasheets</h2>
+<b>DS28E17</b> - https://www.analog.com/media/en/technical-documentation/data-sheets/DS28E17.pdf
+<br>
+<b>SHT3x</b> - https://www.mouser.com/datasheet/2/682/Sensirion_Humidity_Sensors_SHT3x_Datasheet_digital-971521.pdf
+
 <h2></h2>
 Will be updated...
